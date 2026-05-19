@@ -1,0 +1,9 @@
+{
+  "name": "ci-demo",
+  "version": "1.0.0",
+  "scripts": {
+    "lint": "echo Lint Passed",
+    "test": "echo Test Passed",
+    "build": "echo Build Successful"
+  }
+}
